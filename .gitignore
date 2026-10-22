@@ -1,0 +1,43 @@
+
+# Python virtual environments
+
+.venv/
+
+venv/
+
+env/
+
+# Python cache
+
+__pycache__/
+
+*.py[cod]
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Downloaded datasets
+
+data/
+
+# macOS
+
+.DS_Store
+
+# Environment variables and secrets
+
+.env
+
+.env.*
+
+!.env.example
+
+# Model checkpoints
+
+*.ckpt
+
+*.pth
+
+*.pt
+
